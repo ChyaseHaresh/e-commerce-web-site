@@ -1,0 +1,21 @@
+.user-side-bar ul li{
+    list-style: none;
+}
+.user-side-bar{
+    background-color: #e0e7dc;
+}
+.user-side-bar a{
+    text-decoration: none;
+}
+.user-side-bar a:hover{
+    color: orangered;
+}
+.info-box{
+    height: 15em;
+    margin: 1em;
+    background-color: #fff ;
+    padding: 1em;
+}
+.right-container{
+    background-color: #e0e7dc ;
+}
